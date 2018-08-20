@@ -1,2 +1,2 @@
 # Snowflake
-An ID creater follow the Twitter's Snowflake with java.
+An ID creater follow the Twitter's Snowflake with java & kotlin.
